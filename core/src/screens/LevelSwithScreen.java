@@ -39,7 +39,6 @@ public class LevelSwithScreen implements Screen {
 
 	@Override
 	public void show() {
-		System.out.println("qwe");
 		FreeTypeFontGenerator generator = new FreeTypeFontGenerator(Gdx.files.internal(Q.FONT));
 		FreeTypeFontParameter parameter = new FreeTypeFontParameter();
 		parameter.size = 22;
