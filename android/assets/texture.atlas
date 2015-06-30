@@ -1,0 +1,73 @@
+
+textures1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+win
+  rotate: false
+  xy: 2, 2
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+main
+  rotate: false
+  xy: 2, 484
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 804, 2
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 804, 54
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+and
+  rotate: false
+  xy: 804, 106
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+mac
+  rotate: false
+  xy: 864, 106
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+missle
+  rotate: false
+  xy: 1006, 2
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+misslee
+  rotate: false
+  xy: 1006, 54
+  size: 9, 40
+  orig: 9, 40
+  offset: 0, 0
+  index: -1
+
+textures2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lose
+  rotate: false
+  xy: 2, 2
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
